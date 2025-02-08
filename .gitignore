@@ -1,0 +1,42 @@
+# Ignore build directories
+/target/
+/build/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+.ic/
+
+# Ignore Maven wrapper files 
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore Java class files (compiled files)
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore Java dependency management files (for Maven)
+*.jar
+*.war
+*.ear
+
+# Ignore operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore other generated files
+*.swp
+*.swo
+
+# Ignore Image
+ImageRequests/images/cat1.png
+
+# Misc
+mvnw
+.gitattributes
+mvnw.cmd
+ImageClassifier/src/main/resources
+
