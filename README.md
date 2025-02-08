@@ -61,4 +61,4 @@ mvn spring-boot:run
 #### 3. Launch requests
 Use the ImageRequests.py file to send images to the classifier
 
-# Image-Classifier
+
