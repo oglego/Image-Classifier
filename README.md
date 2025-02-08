@@ -59,6 +59,8 @@ mvn spring-boot:run
 ```
 
 #### 3. Launch requests
+```sh
 Use the ImageRequests.py file to send images to the classifier
+```
 
 
